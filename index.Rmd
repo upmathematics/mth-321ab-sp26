@@ -1,5 +1,5 @@
 ---
-title: "MTH 321: Ordinary Differential Equation"
+title: "MTH 321: Ordinary Differential Equations"
 subtitle: | 
   | Section A & B
   | Spring 2026
