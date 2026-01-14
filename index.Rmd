@@ -178,7 +178,7 @@ The following learning objectives are designed to build on one another, with som
 | **4** | Tu 2/3 | $\rightarrow$ 2nd-Order ODEs<br>$\rightarrow$ Equilibriums of 2nd-Order ODEs<br>$\rightarrow$ 2nd-Order Existence and Uniqueness |
 |  | Th 2/5 | $\rightarrow$ Principle of Superposition<br>$\rightarrow$ Characteristic Polynomials for Homogeneous Linear 2nd-Order ODEs<br>$\rightarrow$ Method of Reduction of Order |
 | **5** | Tu 2/10 | _Review_ |
-|  | W 2/11 to F 2/13 | **Exam 1** (No Class Session on Th 2/12) |
+|  | W 2/11 to F 2/13 | **Exam 1** on **1st-Order ODEs** (No Class Session on Th 2/12) |
 | **6** | Tu 2/17 | $\rightarrow$ Undetermined Coefficients for Nonhomogeneous Linear 2nd-Order ODEs |
 |  | Th 2/19 | $\rightarrow$ Variation of Parameters for Nonhomogeneous Linear 2nd-Order ODEs |
 | **7** | Tu 2/24 | $\rightarrow$ Systems of 1st-Order ODEs<br>$\rightarrow$ Equilibriums of 1st-Order Systems<br>$\rightarrow$ 1st-Order System Existence and Uniqueness<br>$\rightarrow$ Phase Planes<br>$\rightarrow$ Direction Fields |
@@ -188,7 +188,7 @@ The following learning objectives are designed to build on one another, with som
 | **9** | Tu 3/10 | $\rightarrow$ Eigenvalues and Eigenvectors for Homogeneous Linear 1st-Order Systems<br>$\rightarrow$ Stability Analysis by Linearization |
 |  | Th 3/12 | $\rightarrow$ Applications of 2nd-Order ODEs \& Systems of 1st-Order ODEs<br>$\rightarrow$ Runge-Kutta Method |
 | **10** | Tu 3/17 | _Review_ |
-|  | W 3/18 to F 3/20 | **Exam 2** (No Class Session on Th 3/19) |
+|  | W 3/18 to F 3/20 | **Exam 2** on **2nd-Order ODEs** (No Class Session on Th 3/19) |
 | **11** | Tu 3/24 | $\rightarrow$ Distinct Real Eigenvalues for Homogeneous Linear 1st-Order Systems<br>$\rightarrow$ Repeated Real Eigenvalues for Homogeneous Linear 1st-Order Systems |
 |  | Th 3/26 | $\rightarrow$ Complex Eigenvalues for Homogeneous Linear 1st-Order Systems |
 | **12** | Tu 3/31 | $\rightarrow$ Variation of Parameters for Nonhomogeneous Linear 1st-Order Systems |
@@ -196,10 +196,10 @@ The following learning objectives are designed to build on one another, with som
 | **13** | Tu 4/7 | $\rightarrow$ Laplace Transforms for Homogeneous Linear ODEs |
 |  | Th 4/9 | $\rightarrow$ Laplace Transforms for Nonhomogeneous Linear ODEs |
 | **14** | Tu 4/14 | _Asynchronous Review_ due to _Scholarship Day_ |
-|  | W 4/15 to F 4/17 | **Exam 3** (No Class Session on Th 4/16) |
+|  | W 4/15 to F 4/17 | **Exam 3** on **Systems of 1st-Order ODEs** (No Class Session on Th 4/16) |
 | **15** | Tu 4/21 | $\rightarrow$ Series Solutions for Linear ODEs (Optional)<br>$\rightarrow$ Solutions for Linear Higher Order ODEs (Optional) |
 |  | Th 4/23 | _Review_ |
-| **16** | M 4/27 to Th 4/30 | **Final Exam** |
+| **16** | M 4/27 to Th 4/30 | **Final Exam** on **1st-Order ODEs, 2nd-Order ODEs, and Systems of 1st-Order ODEs** |
 
 <br>
 
@@ -278,7 +278,7 @@ Note that these are categorical marks, not numerical scores.
 
 ### Final Course Grades
 
-| **Assignment** | **Rank** | **Mark** | **A** | **B** | **C** | **D** |
+| **Assignment** | **Rank** | **Mark** | **A,A-** | **B+,B,B-** | **C+,C,C-** | **D+,D,D-** |
 |:----------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | **Exams** | 1 | O | $\frac{3}{4}$ | - | - | - |
 |  |  | E | - | $\frac{3}{4}$ | - | - |
@@ -290,7 +290,7 @@ Note that these are categorical marks, not numerical scores.
 |  |  | NI | - | - | - | $\frac{5}{6}$ |
 | **Worksheets** | 3 | Completed | $\frac{34}{37}$ | $\frac{30}{37}$ | $\frac{26}{37}$ | $\frac{23}{37}$ |
 
-The above table shows the fraction of given assignments. These fractions are minimum requirements for each letter grade.
+The above table shows the fraction of given assignments. These fractions are minimum requirements for each letter grade category. Plus/minus letter grades will be determined by your overall coursework and your final exam.
 
 The ranking indicates the relative importance of each assignment: Rank 1 is the most important, and Rank 3 is the least. If the mark distribution across assignments varies for you, this ranking will be used to determine your final grade. There will also be optional assignments that you may complete to contribute additional credit within each assignment category.
 
