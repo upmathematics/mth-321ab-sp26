@@ -1,43 +1,32 @@
 ---
-title: "MTH 321: Ordinary Differential Equations"
+title: | 
+  \vspace{-1in}
+  | MTH 321: Ordinary Differential Equations
+  | Syllabus
 subtitle: | 
-  | Section A & B
-  | Spring 2026
-  | Department of Mathematics
-  | University of Portland
-author: | 
-  | Dr. [Alex John Quijano](https://www.alexjohnquijano.com){target='_blank'} [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/){target='_blank'}
-  | Department of Mathematics
-  | University of Portland
-  | 
-  | Made with [R](https://cran.r-project.org/){target='_blank'} and [RMarkdown](https://rmarkdown.rstudio.com/){target='_blank'}
-  | Last updated on `r format(Sys.Date(), format='%B %d, %Y')`
-bibliography: references.bib
-csl: mbe.csl
+  | Section A \& B | Spring 2026 | Department of Mathematics | University of Portland
+header-includes: |
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhead[RO,R]{MTH 321AB ODE - Syllabus}
+  \fancyfoot[CO,C]{}
+  \fancyfoot[R]{\thepage}
+  \usepackage{float}
+output:
+  bookdown::pdf_document2:
+    toc: no
+    number_section: no
+urlcolor: blue
+bibliography: ../references.bib
+csl: ../mbe.csl
 nocite: '@*'
+geometry: "left=0.50in,right=0.50in,top=0.75in,bottom=0.75in"
+fontsize: 11pt
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-:::: {style="display: flex;"}
-:::: {.column width=39%}
-```{r systems-animation-1, echo=FALSE, fig.align='center', out.width = '100%', fig.show='hold', fig.cap='Pendulum'}
-knitr::include_graphics(c("figures/pendulum.gif"))
-```
-:::
-:::: {.column width=59%}
-```{r systems-animation-2, echo=FALSE, fig.align='center', out.width = '100%', fig.show='hold', fig.cap='Horizontal Spring-Mass'}
-knitr::include_graphics(c("figures/horizontal-spring-mass.gif"))
-```
-```{r systems-animation-3, echo=FALSE, fig.align='center', out.width = '100%', fig.show='hold', fig.cap='Bouncing Ball'}
-knitr::include_graphics(c("figures/bouncing-ball.gif"))
-```
-::::
-::::
-
-An ordinary differential equation is a core mathematical framework for describing systems that change over time. They transform physical laws into predictive models that show how things evolve.
 
 # Syllabus
 
@@ -66,7 +55,7 @@ This course meets on Tuesdays and Thursdays. The typical class routine will incl
 This course uses the following textbook —which is free to access— for reading and practice.
 
 ```{r echo=FALSE}
-refs <- bibtex::read.bib("references.bib")
+refs <- bibtex::read.bib("../references.bib")
 ```
 
 >  * `r capture.output(print(refs["trench2013elementary"]))`
