@@ -159,8 +159,8 @@ The following learning objectives are designed to build on one another, with som
 | **Week** | **Day** | **Topics** |
 |:--:|:--:|:---------------|
 | **1** | Tu 1/13 | $\rightarrow$ Orientation<br>$\rightarrow$ Modeling Physical Systems<br>$\rightarrow$ Classification of Equations<br>$\rightarrow$ Principles of Solutions |
-|  | Th 1/15 | $\rightarrow$ 1st-Order ODEs<br>$\rightarrow$ Equilibriums of 1st-Order ODEs<br>$\rightarrow$ 1st-Order Existence and Uniqueness<br>$\rightarrow$ Slope Fields |
-| **2** | Tu 1/20 | $\rightarrow$ Analyzing Equilibriums of 1st-Order ODEs<br>$\rightarrow$ Phase Diagrams<br>$\rightarrow$ Bifurcations in One Dimension |
+|  | Th 1/15 | $\rightarrow$ 1st-Order ODEs<br>$\rightarrow$ Equilibriums of 1st-Order ODEs<br>$\rightarrow$ 1st-Order Existence and Uniqueness<br>$\rightarrow$ Phase Diagrams<br>$\rightarrow$ Slope Fields |
+| **2** | Tu 1/20 | $\rightarrow$ Analyzing Equilibriums of 1st-Order ODEs<br>$\rightarrow$ Bifurcations in One Dimension |
 |  | Th 1/22 | $\rightarrow$ Applications of 1st-Order ODEs<br>$\rightarrow$ Euler's Method |
 | **3** | Tu 1/27 | $\rightarrow$ Separation of Variables for Linear 1st-Order ODEs<br>$\rightarrow$ Separation of Variables for Non-Linear 1st-Order ODEs |
 |  | Th 1/29 | $\rightarrow$ Exact Forms of 1st-Order ODEs<br>$\rightarrow$ Integrating Factors for Linear 1st-Order ODEs |
