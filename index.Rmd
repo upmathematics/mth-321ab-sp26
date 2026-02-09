@@ -177,10 +177,10 @@ The following learning objectives are designed to build on one another, with som
 |  | Th 1/29 | $\rightarrow$ Exact Forms of 1st-Order ODEs<br>$\rightarrow$ Integrating Factors for Linear 1st-Order ODEs |
 | **4** | Tu 2/3 | $\rightarrow$ 2nd-Order ODEs<br>$\rightarrow$ Equilibriums of 2nd-Order ODEs<br>$\rightarrow$ 2nd-Order Existence and Uniqueness |
 |  | Th 2/5 | $\rightarrow$ Principle of Superposition<br>$\rightarrow$ Characteristic Polynomials for Homogeneous Linear 2nd-Order ODEs<br>$\rightarrow$ Method of Reduction of Order |
-| **5** | Tu 2/10 | _Review_ |
-|  | W 2/11 to F 2/13 | **Exam 1** on **1st-Order ODEs** (No Class Session on Th 2/12) |
-| **6** | Tu 2/17 | $\rightarrow$ Undetermined Coefficients for Nonhomogeneous Linear 2nd-Order ODEs |
-|  | Th 2/19 | $\rightarrow$ Variation of Parameters for Nonhomogeneous Linear 2nd-Order ODEs |
+| **5** | Tu 2/10 | $\rightarrow$ Undetermined Coefficients for Nonhomogeneous Linear 2nd-Order ODEs |
+|  | W 2/11 | $\rightarrow$ Variation of Parameters for Nonhomogeneous Linear 2nd-Order ODEs |
+| **6** | 2/17 | _Review_ |
+|  | W 2/18 to F 2/20 | **Exam 1** on **1st-Order ODEs** (No Class Session on Th 2/12) |
 | **7** | Tu 2/24 | $\rightarrow$ Systems of 1st-Order ODEs<br>$\rightarrow$ Equilibriums of 1st-Order Systems<br>$\rightarrow$ 1st-Order System Existence and Uniqueness<br>$\rightarrow$ Phase Planes<br>$\rightarrow$ Direction Fields |
 |  | Th 2/26 | $\rightarrow$ Analyzing Equilibriums of 1st-Order Systems<br>$\rightarrow$ Phase Portraits<br>$\rightarrow$ Bifurcations in Two Dimensions |
 | **8** | Tu 3/3 | _Spring Vacation_ |
